@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Attrams
+- 👋 Hi, I’m Papa Attrams.
 - 👀 I’m interested in Java and Spring Boot.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Spring Boot projects
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on Spring Boot projects.
 - 📫 How to reach me on twitter [@attramsss](https://twitter.com/attramsss).
 
 <!---
