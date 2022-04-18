@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Papa Attrams.
-- 👀 I’m interested in Java and Spring Boot.
-- 🌱 I’m currently learning React and Elixir.
-- 💞️ I’m looking to collaborate on Spring Boot projects.
+- 👀 I’m interested Elixir and Phoenix.
+- 🌱 I’m currently learning Phoenix.
+- 💞️ I’m looking to collaborate on Phoenix projects which will help me learn more about Phoenix.
 - 📫 How to reach me on twitter [@attramsss](https://twitter.com/attramsss).
 
 <!---
