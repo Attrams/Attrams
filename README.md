@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Papa Attrams.
-- 👀 I’m interested Java, Elixir, Spring Boot and Phoenix.
+- 👀 I’m interested Elixir and Phoenix.
 - 🌱 I’m currently learning Phoenix.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me on twitter [@attramsss](https://twitter.com/attramsss).
